@@ -1,0 +1,17 @@
+p {
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px solid #999;
+}
+body {
+    background-color: #e0ffff;
+}
+.table-city {
+    background-color: #46cccc;
+}
+#table-data {
+    background-color: rgb(235, 131, 131)
+}
+form {
+    background-color: #bfcc46;
+}
